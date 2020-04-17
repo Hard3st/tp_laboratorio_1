@@ -25,7 +25,7 @@ int userMenu(float numA, float numB)
 
     while(opcion > 5 || opcion < 1)            /**< Validación de opción ingresada entre 1 y 5. */
     {
-        printf("Opción inválida. Ingrese nuevamente una opción: ");
+        printf("Opcion invalida. Ingrese nuevamente una opcion: ");
         scanf("%d", &opcion);
     }
     return opcion;
