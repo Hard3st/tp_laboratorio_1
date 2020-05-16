@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1589668895 source:c:\users\admin\desktop\programas\repositorios\tp_laboratorio_2\tp2\arrayemployees.c
+	"ArrayEmployees.h"
+
+1589668623 c:\users\admin\desktop\programas\repositorios\tp_laboratorio_2\tp2\arrayemployees.h
+
+1589668773 source:c:\users\admin\desktop\programas\repositorios\tp_laboratorio_2\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+
